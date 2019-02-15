@@ -8,3 +8,9 @@ fields:
   type: text
   hidden: false
   default: post
+- type: datetime
+  name: date
+  label: date
+  config:
+    required: true
+  default: 2019-02-21 03:00:00 +0000
