@@ -1,0 +1,11 @@
+---
+label: Yo
+hide_body: false
+is_partial: false
+fields:
+- type: field_group
+  name: sth
+  label: sth
+- type: text
+  name: fg
+  label: fg
